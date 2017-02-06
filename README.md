@@ -29,5 +29,5 @@ The design about databse is shown below.
 
 To be honest, there is some limitations in my project, such as the low expansibility. But it will be nice if your business scenario is simle or just for testing.
 
-Now I'm in the reconstitution, and it will be very soon to push my next version
+Now I'm in the reconstitution, and it will be very soon to push my next version.
 
