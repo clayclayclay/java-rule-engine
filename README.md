@@ -2,7 +2,7 @@
 
 ## FIRST
 
-The project is provide the rule mapping service.
+The project provides the rule mapping service.
 
 What is rule mapping service? 
 
@@ -10,7 +10,7 @@ In my view, the service can calculate some results (such as the discount, warran
 
 Why I do the work?
 
-Because my company needs some support about the aspect. So I searched many information on the net,  did it myself.
+Because my company needs some support about this aspect. So I searched many information on the net,  did it myself.
 
 it's my little process and I'm willing to share it with you.
 
