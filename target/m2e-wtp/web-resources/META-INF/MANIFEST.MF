@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rule_engine_demo_max Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: I337739
+Implementation-Vendor-Id: com.max
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
