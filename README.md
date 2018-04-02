@@ -6,7 +6,7 @@ The project provides the rule mapping service.
 
 What is rule mapping service? 
 
-In my view, the service can calculate some results (such as the discount, warranty period etc.) by some rules that merchant hava set.
+Rule mapping service calculates results (such as the discount, warranty period etc.) based on rules provided by a merchant.
 
 Why I do the work?
 
@@ -27,7 +27,7 @@ The design about databse is shown below.
 
 ## THIRD
 
-To be honest, there is some limitations in my project, such as the low expansibility. But it will be nice if your business scenario is simle or just for testing.
+Because my project has limitations such as the low expansibility, it would be preffered if your business scenario is simple or for test purposes.
 
-Now I'm in the reconstitution, and it will be very soon to push my next version.
+Now I'm in the reconstitution, and will soon push my next version.
 
