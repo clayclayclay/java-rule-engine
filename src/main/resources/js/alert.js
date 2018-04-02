@@ -3,4 +3,4 @@ function do_alert()
 	alert(0);
 }
 
-do_alert();
+window.onload() = do_alert;
